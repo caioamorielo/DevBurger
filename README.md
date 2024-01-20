@@ -7,13 +7,11 @@ Explore o DevBurger, um projeto de cardápio dinâmico criado com <img width="60
 
 Este site oferece uma experiência interativa onde você pode explorar diferentes opções de cardápios.
 
-Os botões na parte superior permitem que você descubra o cardápio completo, aplique descontos, verifique o valor total do cardápio e filtre opções veganas. 🌱💰
+Os botões na parte superior permitem que você descubra o cardápio completo, aplique descontos de 10%, verifique o valor total do cardápio e filtre opções veganas. 🌱💰
 
 A responsividade é garantida. 📱✨
 
-<b>CONFIRA:</b> <a href="">DevBurger</a> 🍔🔥
-
+<b>CONFIRA:</b> <a href="https://devburger-web.netlify.app/">DevBurger</a> 🍔🔥
 </p>
-<br>
 <br>
 <img src="https://github.com/caioamorielo/DevBurger/blob/main/assets/devburger-site.png?raw=true" alt="devburger-website-screen" />
