@@ -16,3 +16,4 @@ A responsividade é garantida. 📱✨
 </p>
 <br>
 <br>
+<img src="https://github.com/caioamorielo/DevBurger/blob/main/assets/devburger-site.png?raw=true" alt="devburger-website-screen" />
