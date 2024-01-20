@@ -11,7 +11,7 @@ Os botões na parte superior permitem que você descubra o cardápio completo, a
 
 A responsividade é garantida. 📱✨
 
-<b>CONFIRA:</b> <a href="https://devburger-web.netlify.app/">DevBurger</a> 🍔🔥
+<b>CONFIRA:</b> <a href="https://devburger-web.netlify.app/" target="_blank">DevBurger</a> 🍔🔥
 </p>
 <br>
 <img src="https://github.com/caioamorielo/DevBurger/blob/main/assets/devburger-site.png?raw=true" alt="devburger-website-screen" />
